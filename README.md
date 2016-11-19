@@ -1,2 +1,2 @@
 # Image-Gallery
-Bootstrap and CSS project
+An image gallery site project to learn bootstrap.
